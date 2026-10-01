@@ -7,7 +7,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working on forked <a href="https://github.com/lucasbuilds/animeku-cli">Animeku-cli</a></p>
+<p>🔭 I’m currently working on forked <a href="https://github.com/yuutaa7x/animeku-cli">Animeku-cli</a></p>
 </li>
 <li>
 <p>🌱 I’m currently learning Lua</p>
