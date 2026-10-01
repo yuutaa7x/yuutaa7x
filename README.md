@@ -19,7 +19,7 @@
 <p>💬 Ask me about Python, Lua, Javascript</p>
 </li>
 </ul>
-<h2> Pinned Repo & Working On: /h2>
+<h2> Pinned Repo & Working On: </h2>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=yuutaa7x&repo=yuutaa7x%2Fanimeku-cli&description_lines_count=3&theme=dark_github_repocard)](https://github.com/yuutaa7x/animeku-cli)
 
